@@ -1,7 +1,7 @@
 {
-  "name": "gsf-blurry-dogesees",
+  "name": "gsf-say-hello",
   "version": "1.1.0",
-  "description": "Says hello",
+  "description": "👋 🐕  Much hello. WOW.",
   "main": "index.js",
   "repository": "https://github.com/gsandf/gsf-blurry-dogesees",
   "author": "Blake Knight <bknight@gsandf.com> (http://blakek.me/)",
