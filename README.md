@@ -1,5 +1,7 @@
 # gsf-say-hello
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gsandf/gsf-say-hello.svg)](https://greenkeeper.io/)
+
 > 👋 🐕  Much hello. WOW.
 
 Say hello to different animals and such.
